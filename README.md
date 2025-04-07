@@ -8,10 +8,6 @@ It works by offloading transaction processing and resource usage from the BNB Sm
 
 Besides the [differentiators of bedrock](https://community.optimism.io/docs/developers/bedrock/differences/), opBNB is the solution that we aim to provide the best optimistic rollup solution on the BSC.
 
-- Capacity can reach to 100m gas per second, which is much higher than other layer 2 solutions on the Ethereum.
-- Gas fee of transfer can reach as low as $0.005 on average.
-- block time is 1 second.
-
 | **Parameter**                         | **opBNB value** | **Optimism value** | **Ethereum value (for reference)** |
 | ------------------------------------- | --------------- | ------------------ | ---------------------------------- |
 | Block gas limit                       | 100,000,000 gas | 30,000,000 gas     | 30,000,000 gas                     |
