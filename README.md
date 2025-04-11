@@ -22,8 +22,6 @@ If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbc
 
 ## Community
 
-To get help from other developers, discuss ideas, and stay up-to-date on what's happening, become a part of our community on Discord. Join our [official Discord Channel](https://discord.com/invite/bnbchain).
-
 You can also join the conversation, connect with other projects, and ask questions in our [BNB Chain Forum](https://forum.bnbchain.org/).
 
 ## Directory Structure
