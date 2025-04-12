@@ -22,8 +22,6 @@ If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbc
 
 ## Community
 
-You can also join the conversation, connect with other projects, and ask questions in our [BNB Chain Forum](https://forum.bnbchain.org/).
-
 ## Directory Structure
 
 <pre>
