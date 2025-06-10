@@ -18,11 +18,7 @@ Besides the [differentiators of bedrock](https://community.optimism.io/docs/deve
 
 ## Documentation
 
-If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbchain.org/opbnb-docs).
-
-## Community
-
-## Directory Structure
+If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbchain.org/opbnb-docs)
 
 <pre>
 ~~ opBNB ~~
