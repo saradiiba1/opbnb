@@ -23,7 +23,7 @@ If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbc
 <pre>
 ~~ opBNB ~~
 ├── <a href="./packages">packages</a>
-│   └── <a href="./packages/contracts-bedrock">contracts-bedrock</a>: Bedrock smart contracts.
+│   └── <a href="./packages/contracts-bedrock">contracts-bedrock</a>: Bedrock contracts.
 ├── <a href="./op-batcher">op-batcher</a>: L2-Batch Submitter, submits bundles 
 ├── <a href="./op-e2e">op-e2e</a>: End-to-End testing of all bedrock components in Go
 ├── <a href="./op-node">op-node</a>: rollup consensus-layer client.
