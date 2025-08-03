@@ -21,7 +21,6 @@ Besides the [differentiators of bedrock](https://community.optimism.io/docs/deve
 If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbchain.org/opbnb-docs)
 
 <pre>
-├── <a href="./op-e2e">op-e2e</a>: End-to-End testing of all bedrock components in Go
 ├── <a href="./op-node">op-node</a>: rollup consensus-layer client.
 ├── <a href="./op-proposer">op-proposer</a>: L2-Output Submitter, submits proposals to L1
 ├── <a href="./ops-bedrock">ops-bedrock</a>: Bedrock devnet work
